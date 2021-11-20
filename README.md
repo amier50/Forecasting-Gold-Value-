@@ -1,0 +1,2 @@
+# Forecasting-Gold-Value-
+This project is conducted as a mean to forecast the gold value in the next twenty years. The dataset shared by Möbius in the Kaggle dataset https://www.kaggle.com/arashnic/learn-time-series-forecasting-from-gold-price is an univariate time-series dataset. There are three models used in this project namely AR(1), AR(2) and ARMA(1,1) models in which one of them will be selected to forecast the next 20 years of gold value.
